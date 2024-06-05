@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Fibanacci\bin\Debug\net9.0\Fibanacci.exe
+C:\Users\user\Desktop\Fibanacci\bin\Debug\net9.0\Fibanacci.deps.json
+C:\Users\user\Desktop\Fibanacci\bin\Debug\net9.0\Fibanacci.runtimeconfig.json
+C:\Users\user\Desktop\Fibanacci\bin\Debug\net9.0\Fibanacci.dll
+C:\Users\user\Desktop\Fibanacci\bin\Debug\net9.0\Fibanacci.pdb
+C:\Users\user\Desktop\Fibanacci\obj\Debug\net9.0\Fibanacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Fibanacci\obj\Debug\net9.0\Fibanacci.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Fibanacci\obj\Debug\net9.0\Fibanacci.AssemblyInfo.cs
+C:\Users\user\Desktop\Fibanacci\obj\Debug\net9.0\Fibanacci.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Fibanacci\obj\Debug\net9.0\Fibanacci.sourcelink.json
+C:\Users\user\Desktop\Fibanacci\obj\Debug\net9.0\Fibanacci.dll
+C:\Users\user\Desktop\Fibanacci\obj\Debug\net9.0\refint\Fibanacci.dll
+C:\Users\user\Desktop\Fibanacci\obj\Debug\net9.0\Fibanacci.pdb
+C:\Users\user\Desktop\Fibanacci\obj\Debug\net9.0\Fibanacci.genruntimeconfig.cache
+C:\Users\user\Desktop\Fibanacci\obj\Debug\net9.0\ref\Fibanacci.dll
